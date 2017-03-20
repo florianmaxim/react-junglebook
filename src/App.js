@@ -1,5 +1,10 @@
-var element = document.createElement('div');
-	element.textContent = 'I am your Element';
-	element.style.backgroundColor = 'blue';
-	element.style.color = 'red';
-document.body.appendChild(element);
+import React, {Component} from 'react';
+import {render} from 'react-dom';
+
+class App extends Component {
+	render(){
+  		return <div>Hello little Component</div>;		
+	}
+}
+
+render(<App/>, document.body);
