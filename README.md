@@ -2,22 +2,22 @@
 
 # :open_book: Choose your favourite dish from the jungle:
 
-### :banana: [0.1. React](../blob/tree/0.1)
+### :banana: [0.1. React](../tree/0.1)
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 0.1.
 ```
 
-### :avocado: [1.   React, Webpack - (ES6:Babel) - BASIC](../blob/tree/1)
+### :avocado: [1.   React, Webpack - (ES6:Babel) - BASIC](../tree/1)
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 1 .
 ```
 
-### :avocado: 1.1. React, Webpack - (ES6:Babel) - ADVANCED
+### :avocado: [1.1. React, Webpack - (ES6:Babel) - ADVANCED](../tree/1.1)
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 2 .
 ```
 
-### :pineapple: 3.   React, Webpack[HMR](webpack-dev-server CLI) - (ES6:Babel)
+### :pineapple: [3. React, Webpack[HMR](webpack-dev-server CLI) - (ES6:Babel)](../tree/3)
 
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 3 .
