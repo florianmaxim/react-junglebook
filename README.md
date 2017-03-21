@@ -7,12 +7,12 @@
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 0.1.
 ```
 
-### :avocado: [1.   React, Webpack - (ES6:Babel) - BASIC](tree/1)
+### :avocado: [1.   React, Webpack - (ES6:Babel) - BASIC](./tree/1)
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 1 .
 ```
 
-### :avocado: [1.1. React, Webpack - (ES6:Babel) - ADVANCED](../1.1)
+### :avocado: [1.1. React, Webpack - (ES6:Babel) - ADVANCED](./1.1)
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 2 .
 ```
