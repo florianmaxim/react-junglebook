@@ -1,3 +1,3 @@
 # 40000.react.boilerplate
 
-## webpack, react, babel, es6
+## webpack (dev-server, HMR), react, babel, es6

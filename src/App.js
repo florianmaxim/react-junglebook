@@ -5,7 +5,7 @@ import Little from './com/Little.js';
 
 class App extends Component {
 	render(){
-		return <div><Little/></div>
+		return <div>The App says: <Little/></div>
 	}
 }
 

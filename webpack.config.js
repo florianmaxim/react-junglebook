@@ -6,17 +6,14 @@ module.exports = {
 	output: {path: __dirname, filename: './bui/bundle.js'},
 
 	module: {
-	    loaders: [
-	      {
-	        test: /.jsx?$/,
-	        loader: 'babel-loader',
-	        exclude: /node_modules/,
-	        query: {
-	          presets: ['es2015', 'react']
-	        }
-	      }
-	    ]
-  	}
+    	rules: [
+				{
+        		 test: /\.jsx?$/,
+        		 use: ['babel-loader'],
+        		 exclude: /node_modules/
+      			}
+    		   ]
+  	},
 };
 	
 			

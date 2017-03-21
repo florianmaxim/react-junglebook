@@ -9476,7 +9476,7 @@ var App = function (_Component) {
             return _react2.default.createElement(
                 'div',
                 { style: { backgroundColor: 'red', color: 'blue' } },
-                'I am a little Component!'
+                'This is a little Component!'
             );
         }
     }]);
@@ -21768,6 +21768,7 @@ var App = function (_Component) {
 			return _react2.default.createElement(
 				'div',
 				null,
+				'The App says: ',
 				_react2.default.createElement(_Little2.default, null)
 			);
 		}
