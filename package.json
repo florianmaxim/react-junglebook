@@ -1,25 +1,32 @@
 {
-  "name": "boilerplate",
+  "name": "junglecookbook",
   "version": "1.0.0",
-  "description": "How To Cook In The Jungle",
-  "main": "index.js",
+  "description": "## webpack (dev-server, HMR), react, babel, es6",
+  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.js && open ./built/index.html",
-    "start": "webpack-dev-server --hot && open http://localhost:8080"
+    "build": "webpack --config webpack.config.js",
+    "start": "webpack-dev-server --hot"		
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheesyeyes/40000.react.boilerplate.git"
   },
   "author": "Florian Maxim",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheesyeyes/40000.react.boilerplate/issues"
+  },
+  "homepage": "https://github.com/cheesyeyes/40000.react.boilerplate#readme",
   "dependencies": {
+    "babel-cli": "^6.24.0",
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
     "babel-preset-es2015": "^6.24.0",
     "babel-preset-react": "^6.23.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "webpack": "^2.2.1"
-  },
-  "devDependencies": {
-    "webpack": "^2.2.1"
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.2"
   }
 }

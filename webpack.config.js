@@ -1,4 +1,5 @@
-const path = require('path');
+var path = require('path');
+var webpack = require('webpack');
 
 module.exports = {
 
@@ -6,14 +7,15 @@ module.exports = {
 	output: {path: __dirname, filename: './built/bundle.js'},
 
 	module: {
-    	rules: [
-				{
-        		 test: /\.jsx?$/,
-        		 use: ['babel-loader'],
-        		 exclude: /node_modules/
-      			}
-    		   ]
+	    loaders: [
+	      {
+	        test: /.jsx?$/,
+	        loader: 'babel-loader',
+	        exclude: /node_modules/,
+	        query: {
+	          presets: ['es2015', 'react']
+	        }
+	      }
+	    ]
   	},
 };
-	
-			
