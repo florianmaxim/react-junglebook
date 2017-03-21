@@ -1,3 +1,5 @@
-# 40000.react.boilerplate
+# React Boilerplates (How To Cook In The Jungle)
 
-## webpack (dev-server, HMR), react, babel, es6
+### 0.1. React
+
+Cooking the most simple react meal.
