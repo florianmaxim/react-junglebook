@@ -1,24 +1,24 @@
 # React Boilerplates (How To Cook In The Jungle :palm_tree: :see_no_evil:)
 
-# :banana: Choose your favourite dish from the jungle: :avocado:
+# :open_book: Choose your favourite dish from the jungle:
 
-### 0.1. React
+### :banana: 0.1. React
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 0.1 .
 ```
 
-### 1.   React, Webpack - (ES6:Babel) - BASIC
+### :avocado: 1.   React, Webpack - (ES6:Babel) - BASIC
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 1
  .
 ```
 
-### 1.1. React, Webpack - (ES6:Babel) - ADVANCED
+### :avocado: 1.1. React, Webpack - (ES6:Babel) - ADVANCED
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 2 .
 ```
 
-### 3.   React, Webpack[HMR](webpack-dev-server CLI) - (ES6:Babel)
+### :pineapple: 3.   React, Webpack[HMR](webpack-dev-server CLI) - (ES6:Babel)
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 3
  .
