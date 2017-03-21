@@ -23,7 +23,7 @@ Next: Write in ES6, Browser refreshes automatically[HMR].
 ### :pineapple: [2. React, Webpack(webpack-dev-server[HMR:CLI]) - (ES6:Babel)](../../tree/2)
 
 ```script
-git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 3 . && npm install && npm run start
+git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 2 . && npm install && npm run start
 ```
 
 Next: Write in ES6, Changes will we displayed immediately(Browser doesn't even need to refresh)[HMR+HOT LOADING]
