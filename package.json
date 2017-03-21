@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.config.js",
-    "start": "webpack-dev-server --content-base ./bui --hot"
+    "start:dev": "webpack-dev-server --hot --content-base ./bui"
   },
   "author": "Florian Maxim",
   "license": "ISC",
