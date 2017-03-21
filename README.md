@@ -1,9 +1,11 @@
 # 40000.react.boilerplate
 
-## ![status](https://img.shields.io/badge/status-on-brightgreen.svg) 1: webpack
-## ![status](https://img.shields.io/badge/status-on-brightgreen.svg) 2: webpack, rect, (babel:es6)
-## ![status](https://img.shields.io/badge/status-on-brightgreen.svg) 3: webpack[HMR], react, (babel:es6)
+## 0.1  react
+## 0.2  react - (babel:es6)
 
-## 4: webpack[HMR], react, react-hot-loader, (babel:es6)
-## 5: webpack[HMR], react, react-hot-loader, react-router, (babel:es6)
-## 6: webpack[HMR], react, react-hot-loader, react-router, server-side-rendering, (babel:es6)
+## 1.1  react, webpack 
+## 1.2. react, webpack - (babel:es6)
+
+## 3.1: react, webpack[HMR](webpack-dev-server CLI) - (babel:es6)
+## 3.2: react, webpack[HMR](webpack-dev-server API) - (babel:es6)
+## 3.3: react, webpack[HMR](custom server MIDDLEWARE) - (babel:es6)
