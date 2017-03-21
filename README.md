@@ -1,4 +1,4 @@
-# 40000.react.boilerplate
+# React Boilerplates (How To Cook In The Jungle)
 
 ## React, Webpack - (ES6:Babel)
 
