@@ -2,7 +2,7 @@
 
 # :open_book: Choose your favourite dish from the jungle:
 
-### :banana: [0.1. React](../0.1)
+### :banana: [0.1. React](0.1)
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 0.1.
 ```
