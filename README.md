@@ -1,4 +1,4 @@
-# React Boilerplates (How To Cook In The Jungle)
+# React Boilerplates (How To Cook In The Jungle :palm_tree: :ape:)
 
 ### 0.1. react
 ### 0.2. react - (babel:es6)
