@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.js",
-    "start": "webpack-dev-server --hot && open ./built/index.html"
+    "build": "webpack --config webpack.config.js && open ./built/index.html",
+    "start": "webpack-dev-server --hot && open http://localhost:8080"
   },
   "author": "Florian Maxim",
   "license": "ISC",
