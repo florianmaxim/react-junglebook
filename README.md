@@ -11,7 +11,8 @@ npm run start:production
 ```
 
 ### 0.1. React
-````script
+
+```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplates.git@01
 ```
 
