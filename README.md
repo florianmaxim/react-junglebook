@@ -14,9 +14,9 @@ git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 1 .
 
 ### :avocado: 1.1. React, Webpack - (ES6:Babel) - ADVANCED
 ```script
-git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 2 2 .
+git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 2 .
 ```
-`
+
 ### :pineapple: 3.   React, Webpack[HMR](webpack-dev-server CLI) - (ES6:Babel)
 
 ```script
