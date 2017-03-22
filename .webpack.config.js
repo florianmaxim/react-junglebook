@@ -18,7 +18,7 @@ module.exports = env => {
 
     output: {
       filename: '[name].[hash].js',
-      path: path.join(__dirname, './build/'),
+      path: path.join(__dirname, './built/'),
     },
 
     module: {
