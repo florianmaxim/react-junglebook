@@ -4,9 +4,9 @@
   "description": "How To Cook In The Jungle",
   "main": "index.js",
   "scripts": {
-    "clean": "rm -rf build",
+    "clean": "rm -rf built",
     "start": "NODE_ENV=development node .webpack.config.dev.server.js --env.dev",
-    "build": "NODE_ENV=production && rm -rf build/* && webpack --config .webpack.config.js --progress --env.prod",
+    "build": "NODE_ENV=production && rm -rf built/* && webpack --config .webpack.config.js --progress --env.prod",
     "serve": ""
   },
   "author": "Florian Maxim",
