@@ -11,25 +11,26 @@ This is a try to keep super reduced boilerplates in one place! :tada:
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 0.1.
 ```
 
-Next: Write in ES6[BABEL].
-
 ### :avocado: [1.   React, Webpack - (ES6:Babel)](../../tree/1)
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 1 . && npm install && npm run build && npm run start
 ```
 
-Next: Write in ES6, Browser refreshes automatically[HMR].
+Write in ES6(Babel).
 
 ### :pineapple: [2. React, Webpack(webpack-dev-server[HMR:CLI]) - (ES6:Babel)](../../tree/2)
 
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 2 . && npm install && npm run start
 ```
+Write in ES6(Babel). Develop live(HMR).
 
-Next: Write in ES6, Changes will we displayed immediately(Browser doesn't even need to refresh)[HMR+HOT LOADING]
+### 2.1. React, Webpack[HMR](webpack-dev-server API) - (ES6:Babel)
+### 2.2. React, Webpack[HMR](custom server MIDDLEWARE) - (ES6:Babel)
 
-### 3.1. React, Webpack[HMR](webpack-dev-server API) - (ES6:Babel)
-### 3.2. React, Webpack[HMR](custom server MIDDLEWARE) - (ES6:Babel)
+### :tangerine: [3. React, Webpack(webpack-dev-server[HMR:CLI]) Code splitting - (ES6:Babel)](../../tree/2)
+
+Write in ES6(Babel). Develop live(HMR). Split Code.
 
 ### Scripts
 Each plate provides the following scripts:
