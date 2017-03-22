@@ -1,5 +1,16 @@
-var element = document.createElement('div');
-	element.textContent = 'I am your Element';
-	element.style.backgroundColor = 'blue';
-	element.style.color = 'red';
-document.body.appendChild(element);
+import React from 'react';
+import Link from 'react-router/lib/Link';
+
+const App = ({ children }) =>
+  <div>
+    <nav>
+      <Link to='/'>Home</Link>
+      <Link to='/about'>About</Link>
+      <Link to='/users'>Users</Link>
+    </nav>
+    <main>
+      { children }
+    </main>
+  </div>;
+
+export default App;
