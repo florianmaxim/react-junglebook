@@ -32,6 +32,10 @@ Write in ES6(Babel). Develop live(HMR).
 
 ### :tangerine: [3. React, Webpack(webpack-dev-server:API[HMR:NOT_YET]) (Code Splitting:Routes)- (ES6:Babel)](../../tree/3)
 
+```script
+git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 3 . && npm install && npm run start
+```
+
 Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 
 ### Scripts
