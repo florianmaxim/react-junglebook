@@ -6,7 +6,7 @@ If you're not a full stack developer this makes it complicated to get into it.
 
 Here are the most reduced boilerplates as possible! :tada:
 
-# :open_book: Choose your favourite plate from the jungle:
+# :open_book: Plates:
 
 ### :banana: [0.1. React](../../tree/0.1)
 ```script
@@ -44,6 +44,6 @@ Each plate provides the following scripts:
 ```script
 npm run build
 npm run start
-npm run start:develoment
+npm run start:development
 npm run start:production
 ```
