@@ -30,7 +30,7 @@ Write in ES6(Babel). Develop live(HMR).
 
 ### :tangerine: [3. React, Webpack(webpack-dev-server:API[HMR:NOT_YET]) (Code Splitting:Routes)- (ES6:Babel)](../../tree/3)
 
-Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes..
+Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 
 ### Scripts
 Each plate provides the following scripts:
