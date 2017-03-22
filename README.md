@@ -28,9 +28,9 @@ Write in ES6(Babel). Develop live(HMR).
 ### 2.1. React, Webpack[HMR](webpack-dev-server API) - (ES6:Babel)
 ### 2.2. React, Webpack[HMR](custom server MIDDLEWARE) - (ES6:Babel)
 
-### :tangerine: [3. React, Webpack(webpack-dev-server:API[HMR:<NOT YET>]) (Code Splitting:Routes)- (ES6:Babel)](../../tree/3)
+### :tangerine: [3. React, Webpack(webpack-dev-server:API[HMR:NOT_YET]) (Code Splitting:Routes)- (ES6:Babel)](../../tree/3)
 
-Write in ES6(Babel). Develop live(HMR)<NOT YET>. Split Code By Routes..
+Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes..
 
 ### Scripts
 Each plate provides the following scripts:
