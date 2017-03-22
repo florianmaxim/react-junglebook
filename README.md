@@ -18,7 +18,7 @@ git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 1 . && np
 
 Write in ES6(Babel).
 
-### :pineapple: [2. React, Webpack(webpack-dev-server[HMR:CLI]) - (ES6:Babel)](../../tree/2)
+### :pineapple: [2. React, Webpack(webpack-dev-server:CLI)[HMR:CLI]) - (ES6:Babel)](../../tree/2)
 
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 2 . && npm install && npm run start
@@ -28,9 +28,9 @@ Write in ES6(Babel). Develop live(HMR).
 ### 2.1. React, Webpack[HMR](webpack-dev-server API) - (ES6:Babel)
 ### 2.2. React, Webpack[HMR](custom server MIDDLEWARE) - (ES6:Babel)
 
-### :tangerine: [3. React, Webpack(webpack-dev-server[HMR:CLI]) Code splitting - (ES6:Babel)](../../tree/2)
+### :tangerine: [3. React, Webpack(webpack-dev-server:API[HMR:<NOT YET>]) (Code Splitting)- (ES6:Babel)](../../tree/3)
 
-Write in ES6(Babel). Develop live(HMR). Split Code.
+Write in ES6(Babel). Develop live(HMR)<NOT YET>. Split Code.
 
 ### Scripts
 Each plate provides the following scripts:
