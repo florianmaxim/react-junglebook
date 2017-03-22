@@ -4,9 +4,10 @@
   "description": "How To Cook In The Jungle",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf build",
     "start": "NODE_ENV=development node .webpack.config.dev.server.js --env.dev",
-    "build": "NODE_ENV=production && rm -rf build/* && webpack --config .webpack.config.js --progress --env.prod"
+    "build": "NODE_ENV=production && rm -rf build/* && webpack --config .webpack.config.js --progress --env.prod",
+    "serve": ""
   },
   "author": "Florian Maxim",
   "license": "ISC",
