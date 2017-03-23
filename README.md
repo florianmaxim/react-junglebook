@@ -2,7 +2,7 @@
 
 ### (The Absolute Most Simple Boilerplates For The React Jungle)
 
-## :grapes: 1. Grapes
+## :banana: 1. Banana
 
 THE most basic modern plate:
 
