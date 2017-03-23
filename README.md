@@ -10,16 +10,15 @@ These boilerplates are structured and reduced as possible. :tada:
 
 Keep the web accessible!
 
-# Plates:
+# 📖 Plates:
 
-Each Plate has its own branch, all branches share the same script scheme:
+Each Plate has its own branch, the all share the same script scheme:
 
 ```script
 npm run clean
 npm run develop
 npm run build
 npm run start
-
 ```
 
 ### 🍌 [0. Banana](../../tree/0.1)
