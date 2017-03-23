@@ -16,7 +16,7 @@ Each Plate has its own branch.
 
 (Clone directly from the command line or select the specific branch.)
 
-### :banana: [0. Banana](../../tree/0.1)
+### 🍌 [0. Banana](../../tree/0.1)
 
 Write modern (beautiful).
 
@@ -27,7 +27,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 0 && npm install
 ![react](https://img.shields.io/badge/View-React-green.svg)
 ![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 
-### :red_apple: [1. Apple](../../tree/1)
+### 🍎 [1. Apple](../../tree/1)
 
 Write modern (beautiful). Serve directly (essential).
 
@@ -40,7 +40,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm insta
 ![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 
 
-### :melon: [2. Melon](../../tree/2)
+### 🍈 [2. Melon](../../tree/2)
 
 Write modern (beautiful). Serve directly (essential). Develop live (smart)
 
@@ -55,7 +55,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm insta
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
 
-### :tangerine: [3. Tangerine](../../tree/3)
+### 🍊 [3. Tangerine](../../tree/3)
 
 Write modern (beautiful). Serve directly (essential). Develop live (smart). Structure By Routes (fast). Split Code (faster).
 
@@ -72,7 +72,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm insta
 ![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
 ![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
 
-### :lemon: [4. Lemon](../../tree/4)
+### 🍋 [4. Lemon](../../tree/4)
 
 Write modern (beautiful). Serve directly (essential). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
 
