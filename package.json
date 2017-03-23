@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config .webpack.config.js",
-    "develop": "npm run build && open http://0.0.0.0:8080 && webpack-dev-server --content-base build/ --history-api-fallback --port 8080 --config .webpack.config.js",
-    "start": "npm run build && open ./build/index.html"
+    "start": "npm run build && open http://0.0.0.0:8080 && webpack-dev-server --content-base build/ --history-api-fallback --port 8080 --config .webpack.config.js"
   },
   "repository": {
     "type": "git",
