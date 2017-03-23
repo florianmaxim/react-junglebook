@@ -15,39 +15,46 @@ Keep the web accessible!
 Each Plate has its own branch.
 (Clone directly from the command line or select the specific branch.)
 
-### :banana: [0.1. React](../../tree/0.1)
+### :banana: [0. Banana](../../tree/0.1)
+
+Start writing.
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 0.1.
 ```
-![not yet](https://img.shields.io/badge/status-online-green.svg)
+![not yet](https://img.shields.io/badge/View-REACT-green.svg)
 
 ### :pineapple: [1. Pineapple](../../tree/1)
 
-Write modern (beautiful).
+Start writing. Write modern (beautiful).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm install && npm start
 ```
+![not yet](https://img.shields.io/badge/View-REACT-green.svg)
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 
 ### :melon: [2. Melon](../../tree/2)
 
-Write modern (beautiful). Develop live (smart)
+Start writing. Write modern (beautiful). Develop live (smart)
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm install && npm start
 ```
+![not yet](https://img.shields.io/badge/View-REACT-green.svg)
+![not yet](https://img.shields.io/badge/Pack-WEBPACK-green.svg)
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
 
 ### :tangerine: [3. Tangerine](../../tree/3)
 
-Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster).
+Start writing. Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
 ```
+![not yet](https://img.shields.io/badge/View-REACT-green.svg)
+![not yet](https://img.shields.io/badge/Pack-WEBPACK-green.svg)
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
 ![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
@@ -61,6 +68,8 @@ Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Spli
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
 ```
+![not yet](https://img.shields.io/badge/View-REACT-green.svg)
+![not yet](https://img.shields.io/badge/Pack-WEBPACK-green.svg)
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
 ![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
