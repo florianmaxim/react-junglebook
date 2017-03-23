@@ -1,6 +1,6 @@
-# The React Junglebook :see_no_evil:
+# The React Junglebook :see_no_evil: :palm_tree:
 
-## Most Simple Boilerplates For The React Jungle :palm_tree:
+### (The Most Simple Boilerplates For The React Jungle) 
 
 Recently the react ecoysystem seems to turn into a complex jungle.
 
