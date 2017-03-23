@@ -46,12 +46,12 @@ git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 3 . && np
 
 Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 
-### :pizza: [4. React, Webpack, Server(custom:webpack-middleware) - (Server Side Rendering) - (Code Splitting:Routes) - (ES6:Babel)](../../tree/3)
+### :pizza: [4. React, Webpack, Server(custom/webpack-dev) - (Hot Modules Replacement) - (Server Side Rendering) - (Code Splitting:Routes) - (ES6:Babel)](../../tree/3)
 
 ```script
 git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 4 . && npm install && npm run start
 ```
-![not yet](https://img.shields.io/badge/status-pending-red.svg)
+![not yet](https://img.shields.io/badge/status-online-green.svg)
 
 Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 
@@ -59,8 +59,13 @@ Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 Each plate comes with the same script scheme:
 
 ```script
+npm run clean
+
+npm develop:cli
+npm develop:api
+npm develop 
+
 npm run build
 npm run start
-npm run start:development
-npm run start:production
+
 ```
