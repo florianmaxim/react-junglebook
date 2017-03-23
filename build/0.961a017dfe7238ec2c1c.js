@@ -1,0 +1,1 @@
+webpackJsonp([0],{120:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var u=t(3),a=function(e){return e&&e.__esModule?e:{default:e}}(u),l=function(){return a.default.createElement("div",null,"You are standing in the jungle with a lemon in your hand. 🍋")};n.default=l}});
