@@ -1,10 +1,14 @@
-# React Boilerplates (:see_no_evil: How To Cook In The React Jungle :palm_tree:)
+# The React Junglebook :see_no_evil:
+
+## Most Simple Boilerplates For The React Jungle :palm_tree:
 
 Recently the react ecoysystem seems to turn into a complex jungle.
 
 If you're not a full stack developer this makes it complicated to get into it.
 
-Here are the most reduced boilerplates as possible! :tada:
+Here are the most reduced boilerplates as possible. :tada:
+
+Keep the web accessible!
 
 # Plates:
 
