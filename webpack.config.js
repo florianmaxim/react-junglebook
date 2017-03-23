@@ -1,10 +1,21 @@
 var path = require('path');
+var webpack = require('webpack');
 
 module.exports = {
 
-	entry: './source/App.js',
-	output: {path: __dirname, filename: './built/bundle.js'}
+	entry: './source/index.js',
+	output: {path: __dirname, filename: './build/index.js'},
 
-}
-	
-			
+	module: {
+	    loaders: [
+	      {
+	        test: /.jsx?$/,
+	        loader: 'babel-loader',
+	        exclude: /node_modules/,
+	        query: {
+	          presets: ['es2015', 'react']
+	        }
+	      }
+	    ]
+  	},
+};
