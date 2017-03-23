@@ -16,7 +16,7 @@ Each Plate has its own branch.
 
 (Clone directly from the command line or select the specific branch.)
 
-### :banana: [0. Banana](../../tree/0.1)
+### :grapes: [0. Grapes](../../tree/0.1)
 
 Start writing (good).
 
@@ -25,7 +25,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 0.1.
 ```
 ![not yet](https://img.shields.io/badge/View-REACT-green.svg)
 
-### :pineapple: [1. Pineapple](../../tree/1)
+### :banana: [1. Banana](../../tree/1)
 
 Start writing (good). Write modern (beautiful).
 
