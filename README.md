@@ -22,14 +22,14 @@ Good luck. 🙉 🎋
 The following scripts are served with this plate:
 
 ```
-"scripts": {
-  "clean": "rm -rf build",
 
-  "develop:cli": "NODE_ENV=development webpack-dev-server --hot --history-api-fallback --port 8080 --config .webpack.config.js",
-  "develop:api": "NODE_ENV=development node server.webpack.dev.js",
-  "develop": "npm run develop:api",
+"clean": "rm -rf build",
 
-  "build": "npm run clean && webpack --config .webpack.config.js --progress -p --env production",
-  "start": "npm run build && NODE_ENV=production node server.js"
-}
+"develop:cli": "NODE_ENV=development webpack-dev-server --hot --history-api-fallback --port 8080 --config .webpack.config.js",
+"develop:api": "NODE_ENV=development node server.webpack.dev.js",
+"develop": "npm run develop:api",
+
+"build": "npm run clean && webpack --config .webpack.config.js --progress -p --env production",
+"start": "npm run build && NODE_ENV=production node server.js"
+
 ```
