@@ -60,10 +60,13 @@ Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
 ```
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
+
 ![online](https://img.shields.io/badge/React-SSR-blue.svg)
-![online](https://img.shields.io/badge/ReactRouter-Routes-blue.svg)
-![online](https://img.shields.io/badge/Webpack-SplitCode-green.svg)
+![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
+
 ![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
+![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
+
 
 Write in modern (beautiful). Develop live (fast). Render On The Server (faster). Split Code By Routes (smart).
 
