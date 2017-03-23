@@ -1,20 +1,40 @@
 {
-  "name": "react-junglebook-banana",
+  "name": "react-junglebook-apple",
   "version": "0.0.1",
-  "description": "react-junglebook-banana",
+  "description": "react-junglebook-apple",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "open index.html"
+    "build": "webpack --config .webpack.config.js",
+    "develop": "npm run build && open http://0.0.0.0:8080 && webpack-dev-server --content-base build/ --history-api-fallback --port 8080 --config .webpack.config.js",
+    "start": "npm run build && open ./build/index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cheesyeyes/40000.react.boilerplate.git"
+    "url": "git+https://github.com/cheesyeyes/react-junglebook.git"
   },
   "author": "Florian Maxim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cheesyeyes/40000.react.boilerplate/issues"
+    "url": "https://github.com/cheesyeyes/react-junglebook/issues"
   },
-  "homepage": "https://github.com/cheesyeyes/40000.react.boilerplate#readme"
+  "homepage": "https://github.com/cheesyeyes/react-junglebook#readme",
+
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-latest": "^6.24.0",
+    "babel-preset-react": "^6.16.0",
+    "css-loader": "^0.27.3",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "html-webpack-plugin": "^2.24.1",
+    "node-sass": "^4.5.1",
+    "postcss": "^5.2.16",
+    "postcss-loader": "^1.3.3",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.15.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
 }
