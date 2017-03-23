@@ -5,11 +5,13 @@ const WebpackDevServer = require('webpack-dev-server');
 const webpackConfig = require('./.webpack.config');
 
 const WebpackDevServerConfig = {
-  hot:true,
-  inline:true,
-  contentBase: path.join(__dirname, './built'),
-  historyApiFallback: { disableDotRule: true }, // Need historyApiFallback to be able to refresh on dynamic route
-  stats: { colors: true }
+  contentBase: '/built/',
+
+  hotOnly: true,
+
+  stats: {
+    colors: true
+  }
 };
 
 const server = new WebpackDevServer(webpack(webpackConfig), WebpackDevServerConfig);
