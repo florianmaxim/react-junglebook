@@ -12,9 +12,7 @@ Keep the web accessible!
 
 # Plates:
 
-Each Plate has its own branch.
-(Clone directly from the command line or select the specific branch.)
-Each plate comes with the same script scheme:
+Each Plate has its own branch, all branches share the same script scheme:
 
 ```script
 npm run clean
