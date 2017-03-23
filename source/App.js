@@ -6,7 +6,6 @@ const App = ({ children }) =>
     <nav>
       <Link to='/'>Home</Link>
       <Link to='/about'>About</Link>
-      <Link to='/users'>Users</Link>
     </nav>
     <main>
       { children }

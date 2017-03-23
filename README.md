@@ -7,7 +7,7 @@
 ```
 "test": "echo \"Error: no test specified\" && exit 1",
 
-"clean": "rm -rf built",
+"clean": "rm -rf build",
 "build": "NODE_ENV=production && webpack --config .webpack.config.js --progress --env.prod",
 
 "start:cli": "NODE_ENV=production webpack-dev-server --hot --inline --history-api-fallback --progress --port 8080 --config .webpack.config.js --env.prod",

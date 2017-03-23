@@ -13,7 +13,7 @@ module.exports = {
 
   output: {
     filename: '[name].[hash].js',
-    path: path.join(__dirname, './built/'),
+    path: path.join(__dirname, './build/'),
   },
 
   module: {
@@ -67,19 +67,6 @@ module.exports = {
     new ExtractTextPlugin({
       filename: '[name].[hash].css',
     }),
-
-    new webpack.optimize.UglifyJsPlugin({
-      compress: {
-        'screw_ie8': true,
-        'warnings': false,
-        'unused': true,
-        'dead_code': true,
-      },
-      output: {
-        comments: false,
-      },
-      sourceMap: false,
-    })
   ]
 
 };

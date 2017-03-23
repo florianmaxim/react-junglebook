@@ -6,13 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
 
-    "clean": "rm -rf built",
-    "build": "NODE_ENV=production && webpack --config .webpack.config.js --progress --env.prod",
+    "clean": "rm -rf build",
+    "build": "NODE_ENV=production && webpack --config .webpack.config.js --progress",
 
-    "start:cli": "NODE_ENV=production webpack-dev-server --hot --inline --history-api-fallback --progress --port 8080 --config .webpack.config.js",
-    "start:api": "NODE_ENV=production node .webpack.dev.server.js",
+    "develop:cli": "NODE_ENV=production webpack-dev-server --hot --inline --history-api-fallback --progress --port 8080 --config .webpack.config.js",
+    "develop:api": "NODE_ENV=production node server.webpack.dev.js",
+    "develop": "npm run develop:api",
 
-    "start": "npm run start:api"
+    "start": "npm run build && NODE_ENV=production webpack-dev-server --history-api-fallback --progress --port 8080 --config .webpack.config.js"
   },
   "author": "Florian Maxim",
   "license": "ISC",

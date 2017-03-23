@@ -38,14 +38,6 @@ export default {
       },
     },
     {
-      path: 'users',
-      getComponent(location, cb) {
-        System.import('./components/Users')
-          .then(loadRoute(cb))
-          .catch(errorLoading);
-      },
-    },
-    {
       path: '*',
       getComponent(location, cb) {
         System.import('./components/Home')
