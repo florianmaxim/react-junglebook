@@ -9491,7 +9491,7 @@ var App = function (_React$Component) {
 			return _react2.default.createElement(
 				'div',
 				null,
-				'You are standing in the jungle with a pineapple in your hand \uD83C\uDF4D'
+				'You are standing in the jungle with a banana in your hand \uD83C\uDF4C'
 			);
 		}
 	}]);
