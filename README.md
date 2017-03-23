@@ -4,16 +4,18 @@
 
 ## 🍋 Plate 4: Lemon
 
-This is where all the good shit comes together.
+This is where all the good shit comes together:
 
-- React
-- Webpack
+Write modern (beautiful). Develop live (fast). Render On The Server (faster). Split Code By Routes (smart).
 
-- (Server(custom/webpack-dev)
-- (Hot Module Replacement)
-- (Server Side Rendering)
-- (Code Splitting)
-- (ES6:Babel)
+```script
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
+```
+![online](https://img.shields.io/badge/Babel-ES6-red.svg)
+![online](https://img.shields.io/badge/React-SSR-blue.svg)
+![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
+![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
+![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
 
 And now you're ready for the jungle!
 Good luck. 🙉 🎋
