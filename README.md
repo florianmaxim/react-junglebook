@@ -13,8 +13,16 @@ Keep the web accessible!
 # Plates:
 
 Each Plate has its own branch.
-
 (Clone directly from the command line or select the specific branch.)
+Each plate comes with the same script scheme:
+
+```script
+npm run clean
+npm run develop
+npm run build
+npm run start
+
+```
 
 ### 🍌 [0. Banana](../../tree/0.1)
 
@@ -90,18 +98,3 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm insta
 ![online](https://img.shields.io/badge/React-SSR-green.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
 ![online](https://img.shields.io/badge/Webpack-CHUNKS-blue.svg)
-
-### Scripts
-Each plate comes with the same script scheme:
-
-```script
-npm run clean
-
-npm develop:cli
-npm develop:api
-npm develop
-
-npm run build
-npm run start
-
-```
