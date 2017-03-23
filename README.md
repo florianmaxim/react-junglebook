@@ -10,7 +10,7 @@ These boilerplates are structured and reduced as possible. :tada:
 
 Keep the web accessible!
 
-# 📖 Plates:
+# 🍽 Plates:
 
 Each Plate has its own branch, they all share the same script scheme:
 
