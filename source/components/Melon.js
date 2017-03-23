@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 
-export default class App extends Component {
+export default class Melon extends Component {
     render(){
         return (<div style={{backgroundColor:'red', color:'blue'}}>
-		This is a little Component!
-		</div>);       
-    }   
+		The Melon says: I am very juicy.
+		</div>);
+    }
 }

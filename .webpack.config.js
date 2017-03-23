@@ -3,8 +3,8 @@ var webpack = require('webpack');
 
 module.exports = {
 
-	entry: './source/App.js',
-	output: {path: __dirname, filename: './built/bundle.js'},
+	entry: './source/index.js',
+	output: {path: __dirname, filename: './build/index.js'},
 
 	module: {
 	    loaders: [
@@ -18,4 +18,8 @@ module.exports = {
 	      }
 	    ]
   	},
+
+	plugins: [
+		new webpack.HotModuleReplacementPlugin()
+	]
 };
