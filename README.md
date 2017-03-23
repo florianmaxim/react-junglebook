@@ -56,6 +56,8 @@ Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 
 ### :lemon: [4. Lemon](../../tree/3)
 
+Write modern (beautiful). Develop live (fast). Render On The Server (faster). Split Code By Routes (smart).
+
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
 ```
@@ -64,8 +66,6 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm insta
 ![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
 ![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
-
-Write modern (beautiful). Develop live (fast). Render On The Server (faster). Split Code By Routes (smart).
 
 ### Scripts
 Each plate comes with the same script scheme:
