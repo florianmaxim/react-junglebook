@@ -59,7 +59,7 @@ Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
 ```
-!(https://img.shields.io/badge/status-online-green.svg) 
+![online](https://img.shields.io/badge/ES6-Babel-red.svg)![online](https://img.shields.io/badge/HMR-Webpack-green.svg)![online](https://img.shields.io/badge/Render-Server-blue.svg)![online](https://img.shields.io/badge/Split-Routes-red.svg)    
 
 Write in ES6(Babel). Develop live(HMR). Render On The Server. Split Code By Routes.
 
