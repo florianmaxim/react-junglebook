@@ -18,7 +18,7 @@ Each Plate has its own branch.
 
 ### :banana: [0. Banana](../../tree/0.1)
 
-Start writing.
+Start writing (good).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 0.1.
@@ -27,7 +27,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 0.1.
 
 ### :pineapple: [1. Pineapple](../../tree/1)
 
-Start writing. Write modern (beautiful).
+Start writing (good). Write modern (beautiful).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm install && npm start
@@ -37,7 +37,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm insta
 
 ### :melon: [2. Melon](../../tree/2)
 
-Start writing. Write modern (beautiful). Develop live (smart)
+Start writing (good). Write modern (beautiful). Develop live (smart)
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm install && npm start
@@ -49,7 +49,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm insta
 
 ### :tangerine: [3. Tangerine](../../tree/3)
 
-Start writing. Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster).
+Start writing (good). Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
@@ -64,7 +64,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm insta
 
 ### :lemon: [4. Lemon](../../tree/4)
 
-Start writing. Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
+Start writing (good). Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
