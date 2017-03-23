@@ -6,7 +6,7 @@
 
 This is where all the good shit comes together:
 
-Write modern (beautiful). Develop live (fast). Render On The Server (faster). Split Code By Routes (smart).
+Write modern (beautiful). Develop live (fast). Render On The Server (faster). Split Code By Routes (rapid).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
