@@ -11,13 +11,13 @@ Here are the most reduced boilerplates as possible! :tada:
 ### :banana: [0.1. React](../../tree/0.1)
 
 ```script
-git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 0.1.
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 0.1.
 ```
 ![not yet](https://img.shields.io/badge/status-online-green.svg)
 
 ### :avocado: [1.   React, Webpack - (ES6:Babel)](../../tree/1)
 ```script
-git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 1 . && npm install && npm run build && npm run start
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm install && start
 ```
 
 ![not yet](https://img.shields.io/badge/status-online-green.svg)
@@ -27,7 +27,7 @@ Write in ES6(Babel).
 ### :pineapple: [2. React, Webpack(webpack-dev-server:CLI)[HMR:CLI]) - (ES6:Babel)](../../tree/2)
 
 ```script
-git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 2 . && npm install && npm run start
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm install && npm start
 ```
 ![not yet](https://img.shields.io/badge/status-online-green.svg)
 
@@ -39,7 +39,7 @@ Write in ES6(Babel). Develop live(HMR).
 ### :tangerine: [3. React, Webpack, Server(webpack-dev-server:API) - (Code Splitting:Routes)- (ES6:Babel)](../../tree/3)
 
 ```script
-git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 3 . && npm install && npm run start
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
 ```
 
 ![not yet](https://img.shields.io/badge/status-online-green.svg)
@@ -49,7 +49,7 @@ Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 ### :pizza: [4. React, Webpack, Server(custom/webpack-dev) - (Hot Modules Replacement) - (Server Side Rendering) - (Code Splitting:Routes) - (ES6:Babel)](../../tree/3)
 
 ```script
-git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 4 . && npm install && npm run start
+git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 4 . && npm install && npm start
 ```
 ![not yet](https://img.shields.io/badge/status-online-green.svg)
 
@@ -63,7 +63,7 @@ npm run clean
 
 npm develop:cli
 npm develop:api
-npm develop 
+npm develop
 
 npm run build
 npm run start
