@@ -32,8 +32,9 @@ Start writing (good). Write modern (beautiful).
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm install && npm start
 ```
+![online](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![not yet](https://img.shields.io/badge/View-REACT-green.svg)
-![online](https://img.shields.io/badge/Babel-ES6-red.svg)
+![not yet](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 
 ### :melon: [2. Melon](../../tree/2)
 
