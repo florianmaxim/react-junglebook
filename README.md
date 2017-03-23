@@ -16,50 +16,56 @@ Each Plate has its own branch.
 
 (Clone directly from the command line or select the specific branch.)
 
-### :grapes: [0. Grapes](../../tree/0.1)
+### :banana: [0. Banana](../../tree/0.1)
 
-Start writing (good).
+Write modern (beautiful).
 
 ```script
-git clone https://github.com/cheesyeyes/react-junglebook.git -b 0.1.
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 0 && npm install && npm start
 ```
-![not yet](https://img.shields.io/badge/View-REACT-green.svg)
+![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
+![react](https://img.shields.io/badge/View-React-green.svg)
+![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 
-### :banana: [1. Banana](../../tree/1)
+### :red_apple: [1. Apple](../../tree/1)
 
-Start writing (good). Write modern (beautiful).
+Write modern (beautiful). Serve directly (essential).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm install && npm start
 ```
-![babel](https://img.shields.io/badge/Babel-Transpile-red.svg)
-![react](https://img.shields.io/badge/React-View-green.svg)
-![webpack](https://img.shields.io/badge/Webpack-Pack-blue.svg)
+![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
+![react](https://img.shields.io/badge/View-React-green.svg)
+![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
+![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
+
 
 ### :melon: [2. Melon](../../tree/2)
 
-Start writing (good). Write modern (beautiful). Develop live (smart)
+Write modern (beautiful). Serve directly (essential). Develop live (smart)
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm install && npm start
 ```
-![babel](https://img.shields.io/badge/Babel-Transpile-red.svg)
-![react](https://img.shields.io/badge/React-View-green.svg)
-![webpack](https://img.shields.io/badge/Webpack-Pack-blue.svg)
+![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
+![react](https://img.shields.io/badge/View-React-green.svg)
+![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
+![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
 
 ### :tangerine: [3. Tangerine](../../tree/3)
 
-Start writing (good). Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster).
+Write modern (beautiful). Serve directly (essential). Develop live (smart). Structure By Routes (fast). Split Code (faster).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
 ```
-![babel](https://img.shields.io/badge/Babel-Transpile-red.svg)
-![react](https://img.shields.io/badge/React-View-green.svg)
-![webpack](https://img.shields.io/badge/Webpack-Pack-blue.svg)
+![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
+![react](https://img.shields.io/badge/View-React-green.svg)
+![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
+![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/React-ROUTES-green.svg)
@@ -68,14 +74,15 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm insta
 
 ### :lemon: [4. Lemon](../../tree/4)
 
-Start writing (good). Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
+Write modern (beautiful). Serve directly (essential). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
 ```
-![babel](https://img.shields.io/badge/Babel-Transpile-red.svg)
-![react](https://img.shields.io/badge/React-View-green.svg)
-![webpack](https://img.shields.io/badge/Webpack-Pack-blue.svg)
+![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
+![react](https://img.shields.io/badge/View-React-green.svg)
+![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
+![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/React-ROUTES-green.svg)
