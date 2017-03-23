@@ -82,13 +82,13 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm insta
 
 ### 🍋 [4. Lemon](../../tree/4)
 
+Write modern (beautiful). Serve directly (essential). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
+
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
 ![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 ![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 ![serve](https://img.shields.io/badge/Serve-CustomServer-orange.svg)
-
-Write modern (beautiful). Serve directly (essential). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
