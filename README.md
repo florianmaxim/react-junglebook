@@ -62,7 +62,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm insta
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/React-SSR-blue.svg)
 ![online](https://img.shields.io/badge/ReactRouter-Routes-blue.svg)
-![online](https://img.shields.io/badge/Webpack-Split-Code-red.svg)    
+![online](https://img.shields.io/badge/Webpack-SplitCode-red.svg)    
 ![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
 
 Write in ES6(Babel). Develop live(HMR). Render On The Server. Split Code By Routes.
