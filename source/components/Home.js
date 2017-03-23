@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 //The super short way:
-const Home = () => <div>You are home.</div>;
+const Home = () => <div>You are in the jungle.</div>;
 
 /*
 class Home extends Component{

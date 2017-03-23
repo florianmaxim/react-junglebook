@@ -5,10 +5,9 @@ import browserHistory from 'react-router/lib/browserHistory';
 
 import App from './App';
 
-
 //Alternative: Exclude routes.
 
-import Routes from './Routes';
+import Routes from './Routes.Dynamic';
 
 const Root = () => <Router history={browserHistory} routes={Routes} />;
 

@@ -1,6 +1,5 @@
 import App from './App';
 
-// throws an error in the console if the page wasn't able to load
 function errorLoading(error) {
   throw new Error(`Dynamic page loading failed: ${error}`);
 }
@@ -9,15 +8,6 @@ function loadRoute(cb) {
   return module => cb(null, module.default);
 }
 
-/**
- * This object we are exporting is the equivalent of:
- * <Route path="/" component={App}>
- *   <IndexRoute component={Home}/>
- *   <Route path="about" component={About}/>
- *   <Route path="users" component={Users}>
- *   <Route path="*" component={Home}/>
- * </Route>
- */
 export default {
   path: '/',
   component: App,
@@ -33,14 +23,6 @@ export default {
       path: 'about',
       getComponent(location, cb) {
         System.import('./components/About')
-          .then(loadRoute(cb))
-          .catch(errorLoading);
-      },
-    },
-    {
-      path: 'users',
-      getComponent(location, cb) {
-        System.import('./components/Users')
           .then(loadRoute(cb))
           .catch(errorLoading);
       },
