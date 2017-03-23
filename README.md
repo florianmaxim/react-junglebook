@@ -32,9 +32,9 @@ Start writing (good). Write modern (beautiful).
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm install && npm start
 ```
-![online](https://img.shields.io/badge/Transpile-Babel-red.svg)
-![not yet](https://img.shields.io/badge/View-REACT-green.svg)
-![not yet](https://img.shields.io/badge/Pack-Webpack-blue.svg)
+![babel](https://img.shields.io/badge/Babel-Transpile-red.svg)
+![react](https://img.shields.io/badge/React-View-green.svg)
+![webpack](https://img.shields.io/badge/Webpack-Pack-blue.svg)
 
 ### :melon: [2. Melon](../../tree/2)
 
@@ -43,10 +43,12 @@ Start writing (good). Write modern (beautiful). Develop live (smart)
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm install && npm start
 ```
-![not yet](https://img.shields.io/badge/View-REACT-green.svg)
-![not yet](https://img.shields.io/badge/Pack-WEBPACK-green.svg)
+![babel](https://img.shields.io/badge/Babel-Transpile-red.svg)
+![react](https://img.shields.io/badge/React-View-green.svg)
+![webpack](https://img.shields.io/badge/Webpack-Pack-blue.svg)
+
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
-![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
+![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
 
 ### :tangerine: [3. Tangerine](../../tree/3)
 
@@ -55,13 +57,14 @@ Start writing (good). Write modern (beautiful). Develop live (smart). Structure 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
 ```
-![not yet](https://img.shields.io/badge/View-REACT-green.svg)
-![not yet](https://img.shields.io/badge/Pack-WEBPACK-green.svg)
-![online](https://img.shields.io/badge/Babel-ES6-red.svg)
-![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
-![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
-![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
+![babel](https://img.shields.io/badge/Babel-Transpile-red.svg)
+![react](https://img.shields.io/badge/React-View-green.svg)
+![webpack](https://img.shields.io/badge/Webpack-Pack-blue.svg)
 
+![online](https://img.shields.io/badge/Babel-ES6-red.svg)
+![online](https://img.shields.io/badge/React-ROUTES-green.svg)
+![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
+![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
 
 ### :lemon: [4. Lemon](../../tree/4)
 
@@ -70,13 +73,15 @@ Start writing (good). Write modern (beautiful). Develop live (smart). Structure 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
 ```
-![not yet](https://img.shields.io/badge/View-REACT-green.svg)
-![not yet](https://img.shields.io/badge/Pack-WEBPACK-green.svg)
+![babel](https://img.shields.io/badge/Babel-Transpile-red.svg)
+![react](https://img.shields.io/badge/React-View-green.svg)
+![webpack](https://img.shields.io/badge/Webpack-Pack-blue.svg)
+
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
-![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
-![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
-![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
-![online](https://img.shields.io/badge/React-SSR-blue.svg)
+![online](https://img.shields.io/badge/React-ROUTES-green.svg)
+![online](https://img.shields.io/badge/React-SSR-green.svg)
+![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
+![online](https://img.shields.io/badge/Webpack-CHUNKS-blue.svg)
 
 ### Scripts
 Each plate comes with the same script scheme:
