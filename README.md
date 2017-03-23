@@ -77,8 +77,8 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm insta
 
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
+![online](https://img.shields.io/badge/Webpack-CHUNKS-blue.svg)
 ![online](https://img.shields.io/badge/React-ROUTES-green.svg)
-![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
 
 ### 🍋 [4. Lemon](../../tree/4)
 
