@@ -59,7 +59,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "deebe91581ab6852b6d1"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "138cedf7aed0aebd54a0"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotMainModule = true; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
@@ -10122,9 +10122,9 @@ var Melon = function (_Component) {
         key: 'render',
         value: function render() {
             return _react2.default.createElement(
-                'div',
-                { style: { backgroundColor: 'red', color: 'blue' } },
-                'The Melon says: I am very juicy.'
+                'span',
+                null,
+                '\uD83C\uDF48'
             );
         }
     }]);
@@ -10186,8 +10186,9 @@ var App = function (_Component) {
 			return _react2.default.createElement(
 				'div',
 				null,
-				'You are standing in the jungle with a melon in your hand. \uD83C\uDF48 ',
-				_react2.default.createElement(_Melon2.default, null)
+				'You are standing in the jungle with a ',
+				_react2.default.createElement(_Melon2.default, null),
+				' in your hand.'
 			);
 		}
 	}]);
