@@ -54,7 +54,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm insta
 
 Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 
-### :lemon: [4. React, Webpack, Server(custom/webpack-dev) - (Hot Modules Replacement) - (Server Side Rendering) - (Code Splitting:Routes) - (ES6:Babel)](../../tree/3)
+### :lemon: [4. Lemon](../../tree/3)
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
