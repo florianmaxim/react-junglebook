@@ -1,7 +1,7 @@
 {
-  "name": "react-boilerplates",
+  "name": "react-junglebook-banana",
   "version": "0.0.1",
-  "description": "### 0.1. React",
+  "description": "react-junglebook-banana",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
