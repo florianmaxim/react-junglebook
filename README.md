@@ -44,28 +44,31 @@ Write in ES6(Babel). Develop live(HMR).
 ### 2.1. React, Webpack[HMR](webpack-dev-server API) - (ES6:Babel)
 ### 2.2. React, Webpack[HMR](custom server MIDDLEWARE) - (ES6:Babel)
 
-### :tangerine: [3. React, Webpack, Server(webpack-dev-server:API) - (Code Splitting:Routes)- (ES6:Babel)](../../tree/3)
+### :tangerine: [3. Tangerine](../../tree/3)
 
-```script
-git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
-```
-
-![not yet](https://img.shields.io/badge/status-online-green.svg)
-
-Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
-
-### :lemon: [4. Lemon](../../tree/3)
-
-Write modern (beautiful). Develop live (fast). Render On The Server (faster). Split Code By Routes (smart).
+Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
 ```
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
-![online](https://img.shields.io/badge/React-SSR-blue.svg)
-![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
+![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
 ![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
+
+
+### :lemon: [4. Lemon](../../tree/4)
+
+Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
+
+```script
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
+```
+![online](https://img.shields.io/badge/Babel-ES6-red.svg)
+![online](https://img.shields.io/badge/Webpack-HMR-green.svg)
+![online](https://img.shields.io/badge/React-ROUTES-blue.svg)
+![online](https://img.shields.io/badge/Webpack-CHUNKS-green.svg)
+![online](https://img.shields.io/badge/React-SSR-blue.svg)
 
 ### Scripts
 Each plate comes with the same script scheme:
