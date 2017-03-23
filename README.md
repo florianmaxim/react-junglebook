@@ -12,7 +12,7 @@ Keep the web accessible!
 
 # 📖 Plates:
 
-Each Plate has its own branch, the all share the same script scheme:
+Each Plate has its own branch, they all share the same script scheme:
 
 ```script
 npm run clean
