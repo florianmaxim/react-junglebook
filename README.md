@@ -28,37 +28,39 @@ npm run start
 
 Write modern (beautiful).
 
-```script
-git clone https://github.com/cheesyeyes/react-junglebook.git -b 0 && npm install && npm start
-```
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
 ![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
+
+```script
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 0 && npm install && npm start
+```
 
 ### 🍎 [1. Apple](../../tree/1)
 
 Write modern (beautiful). Serve directly (essential).
 
-```script
-git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm install && npm start
-```
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
 ![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 ![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 
+```script
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm install && npm start
+```
 
 ### 🍈 [2. Melon](../../tree/2)
 
-Write modern (beautiful). Serve directly (essential). Develop live (smart)
+Write modern (beautiful). Serve directly (essential). Develop live (smart).
+
+![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
+![react](https://img.shields.io/badge/View-React-green.svg)
+![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
+![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm install && npm start
 ```
-![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
-![react](https://img.shields.io/badge/View-React-green.svg)
-![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
-![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
@@ -67,13 +69,14 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm insta
 
 Write modern (beautiful). Serve directly (essential). Develop live (smart). Structure By Routes (fast). Split Code (faster).
 
-```script
-git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
-```
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
 ![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 ![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
+
+```script
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
+```
 
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
