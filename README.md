@@ -83,6 +83,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm insta
 ![react](https://img.shields.io/badge/View-React-green.svg)
 ![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 ![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
+![serve](https://img.shields.io/badge/Serve-CustomServer-orange.svg)
 
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/React-ROUTES-green.svg)
