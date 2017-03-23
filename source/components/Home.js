@@ -4,11 +4,11 @@ import React, {Component} from 'react';
 const Home = () => <div>You are home.</div>;
 
 /*
-class Home extends Component{
-  render(){
-    return <div>This may home</div>
+  class Home extends Component{
+    render(){
+      return <div>This may home</div>
+    }
   }
-}
 */
 
 export default Home;

@@ -1,12 +1,18 @@
 {
-  "name": "boilerplate",
+  "name": "react-junglebook-3",
   "version": "1.0.0",
-  "description": "How To Cook In The Jungle",
+  "description": "How To Cook In The React Jungle",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "NODE_ENV=development node .webpack.config.dev.server.js --env.dev",
-    "build": "NODE_ENV=production && rm -rf build/* && webpack --config .webpack.config.js --progress --env.prod"
+
+    "clean": "rm -rf built",
+    "build": "NODE_ENV=production && webpack --config .webpack.config.js --progress --env.prod",
+
+    "start:cli": "NODE_ENV=production webpack-dev-server --hot --inline --history-api-fallback --progress --port 8080 --config .webpack.config.js --env.prod",
+    "start:api": "NODE_ENV=production node .webpack.dev.server.js  --hot --inline --env.prod",
+
+    "start": "start:develop:api"
   },
   "author": "Florian Maxim",
   "license": "ISC",
