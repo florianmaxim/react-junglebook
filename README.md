@@ -31,7 +31,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm insta
 ```
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 
-### :melon: [2. Melon(../../tree/2)
+### :melon: [2. Melon](../../tree/2)
 
 Write modern (beautiful). Develop live (smart)
 
