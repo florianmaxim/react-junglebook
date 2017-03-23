@@ -12,7 +12,7 @@
     "start:cli": "NODE_ENV=production webpack-dev-server --hot --inline --history-api-fallback --progress --port 8080 --config .webpack.config.js --env.prod",
     "start:api": "NODE_ENV=production node .webpack.dev.server.js  --hot --inline --env.prod",
 
-    "start": "start:api"
+    "start": "npm run start:api"
   },
   "author": "Florian Maxim",
   "license": "ISC",
