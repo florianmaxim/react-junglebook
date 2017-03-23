@@ -1,6 +1,6 @@
 # The React Junglebook :see_no_evil: :palm_tree:
 
-### (The Most Simple Boilerplates For The React Jungle) 
+### (The Most Simple Boilerplates For The React Jungle)
 
 Recently the react ecoysystem seems to turn into a complex jungle.
 
@@ -53,7 +53,7 @@ Write in ES6(Babel). Develop live(HMR)NOT_YET. Split Code By Routes.
 ### :pizza: [4. React, Webpack, Server(custom/webpack-dev) - (Hot Modules Replacement) - (Server Side Rendering) - (Code Splitting:Routes) - (ES6:Babel)](../../tree/3)
 
 ```script
-git clone https://github.com/cheesyeyes/40000.react.boilerplate.git -b 4 . && npm install && npm start
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
 ```
 ![not yet](https://img.shields.io/badge/status-online-green.svg)
 
