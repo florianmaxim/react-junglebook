@@ -63,7 +63,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm insta
 
 ### :lemon: [4. Lemon](../../tree/4)
 
-Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
+Start writing. Write modern (beautiful). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm install && npm start
