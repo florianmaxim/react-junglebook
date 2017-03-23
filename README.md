@@ -16,21 +16,6 @@ Each Plate has its own branch.
 
 (Clone directly from the command line or select the specific branch.)
 
-### Scripts
-Each plate comes with the same script scheme:
-
-```script
-npm run clean
-
-npm develop:cli
-npm develop:api
-npm develop
-
-npm run build
-npm run start
-
-```
-
 ### :banana: [0.1. React](../../tree/0.1)
 
 ```script
@@ -77,3 +62,18 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 4 . && npm insta
 ![not yet](https://img.shields.io/badge/status-online-green.svg)
 
 Write in ES6(Babel). Develop live(HMR). Render On The Server. Split Code By Routes.
+
+### Scripts
+Each plate comes with the same script scheme:
+
+```script
+npm run clean
+
+npm develop:cli
+npm develop:api
+npm develop
+
+npm run build
+npm run start
+
+```
