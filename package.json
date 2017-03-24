@@ -4,7 +4,7 @@
   "description": "How To Cook In The Jungle",
   "main": "index.js",
   "scripts": {
-    "clean": "rm -rf build",
+    "clean": "rm -rf build/*",
 
     "develop:cli": "NODE_ENV=development webpack-dev-server --hot --history-api-fallback --port 8080 --config .webpack.config.js",
     "develop:api": "NODE_ENV=development node server.webpack.dev.js",
