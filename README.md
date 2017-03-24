@@ -1,4 +1,6 @@
-# The React Junglebook 🙈 🌴
+# The React Junglebook
+
+🙈 🌴
 
 ### (The Absolute Most Simple Boilerplates For The Expanding React Jungle)
 
