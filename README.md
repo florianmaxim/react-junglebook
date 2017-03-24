@@ -1,23 +1,42 @@
-# The React Junglebook :see_no_evil: :palm_tree:
+# The React Junglebook 🙈 🌴
 
 ### (The Absolute Most Simple Boilerplates For The React Jungle)
 
-## :banana: 2. Melon
+## 🍈 Plate 2: Melon
 
-THE most handy modern plate:
+Next level:
 
-Use React (essential), write in ES6 (beautiful), Pack with Webpack (smart).
+Handle the view (essential). Write modern (beautiful). Pack smart (handy). Serve directly (skillful). Develop live (smart).
 
-Develop live(fast).
+![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
+![react](https://img.shields.io/badge/View-React-green.svg)
+![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
+![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 
-![not yet](https://img.shields.io/badge/View-REACT-green.svg)
-![online](https://img.shields.io/badge/Transpile-BABEL-red.svg)
-![online](https://img.shields.io/badge/Pack-WEBPACK-blue.svg)
+```script
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm install && npm start
+```
 
+![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
 
-### Scripts
+```script
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
 ```
-npm run build // 'Builds' Packs our Javascript code into one file.
-npm start //Opens our built project
+
+![online](https://img.shields.io/badge/Babel-ES6-red.svg)
+![online](https://img.shields.io/badge/React-ROUTES-green.svg)
+![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
+![online](https://img.shields.io/badge/Webpack-CHUNKS-blue.svg)
+
+## Scripts
+The following scripts are served with this plate:
+
+```
+"develop:cli": "NODE_ENV=production webpack-dev-server --hot --inline --history-api-fallback --progress --port 8080 --config .webpack.config.js",
+"develop:api": "NODE_ENV=production node server.webpack.dev.js",
+"develop": "npm run develop:api",
+
+"build": "NODE_ENV=production && webpack --config .webpack.config.js --progress",
+"start": "npm run build && NODE_ENV=production node server.js"
 ```
