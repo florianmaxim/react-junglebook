@@ -20,23 +20,12 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm insta
 ![online](https://img.shields.io/badge/Babel-ES6-red.svg)
 ![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
 
-```script
-git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
-```
-
-![online](https://img.shields.io/badge/Babel-ES6-red.svg)
-![online](https://img.shields.io/badge/React-ROUTES-green.svg)
-![online](https://img.shields.io/badge/Webpack-HMR-blue.svg)
-![online](https://img.shields.io/badge/Webpack-CHUNKS-blue.svg)
 
 ## Scripts
 The following scripts are served with this plate:
 
 ```
-"develop:cli": "NODE_ENV=production webpack-dev-server --hot --inline --history-api-fallback --progress --port 8080 --config .webpack.config.js",
-"develop:api": "NODE_ENV=production node server.webpack.dev.js",
-"develop": "npm run develop:api",
-
-"build": "NODE_ENV=production && webpack --config .webpack.config.js --progress",
-"start": "npm run build && NODE_ENV=production node server.js"
+"build": "webpack --config .webpack.config.js",
+"develop": "NODE_ENV=development webpack-dev-server --content-base ./build --history-api-fallback --port 8080 --config .webpack.config.dev.server.js",
+"start": "npm run build && NODE_ENV=production webpack-dev-server --content-base build/ --history-api-fallback --port 8080 --config .webpack.config.js"
 ```
