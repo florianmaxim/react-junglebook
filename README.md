@@ -71,9 +71,9 @@ Serve directly (skillful).
 Develop live (smart).
 Structure By Routes (fast). Split Code (faster).
 
-![babel](https://img.shields.io/badge/Babel-Transpile-red.svg)
-![react](https://img.shields.io/badge/React-View-green.svg)
-![webpack](https://img.shields.io/badge/Webpack-Pack-blue.svg)
+![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
+![react](https://img.shields.io/badge/View-React-green.svg)
+![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 ![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
 
 ```script
