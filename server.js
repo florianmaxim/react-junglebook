@@ -1,7 +1,7 @@
 require('babel-core/register')({ presets: ['latest', 'react'] })
 
 const DEFAULT = {
-  _NAME: '[Server]',
+  _NAME: '[Custom Server]',
   _VERSION: '0.0.1',
   _VERSION_NAME: 'Lemon',
   _URL: '0.0.0.0',
