@@ -21,9 +21,9 @@ npm run build
 npm run start
 ```
 
-### 🍌 [0. Banana](../../tree/0.1)
+### 🍌 [0. Banana](../../tree/0)
 
-Write modern (beautiful).
+Handle the view (essential). Write modern (beautiful). Pack smart (handy).
 
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
@@ -35,7 +35,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 0 && npm install
 
 ### 🍎 [1. Apple](../../tree/1)
 
-Write modern (beautiful). Serve directly (essential).
+Handle the view (essential). Write modern (beautiful). Pack smart (handy). Serve directly (skillful).
 
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
@@ -48,7 +48,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm insta
 
 ### 🍈 [2. Melon](../../tree/2)
 
-Write modern (beautiful). Serve directly (essential). Develop live (smart).
+Handle the view (essential). Write modern (beautiful). Pack smart (handy). Serve directly (skillful). Develop live (smart).
 
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
@@ -64,7 +64,12 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm insta
 
 ### 🍊 [3. Tangerine](../../tree/3)
 
-Write modern (beautiful). Serve directly (essential). Develop live (smart). Structure By Routes (fast). Split Code (faster).
+Handle the view (essential).
+Write modern (beautiful).
+Pack smart (handy).
+Serve directly (skillful).
+Develop live (smart).
+Structure By Routes (fast). Split Code (faster).
 
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
@@ -82,7 +87,14 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm insta
 
 ### 🍋 [4. Lemon](../../tree/4)
 
-Write modern (beautiful). Serve directly (essential). Develop live (smart). Structure By Routes (fast). Split Code (faster). Render On The Server (rapid).
+Handle the view (essential).
+Write modern (beautiful).
+Pack smart (handy).
+Serve directly (skillful).
+Develop live (smart).
+Structure By Routes (fast).
+Split Code (faster).
+Render On The Server (rapid).
 
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
