@@ -75,6 +75,7 @@ Structure By Routes (fast). Split Code (faster).
 ![react](https://img.shields.io/badge/View-React-green.svg)
 ![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 ![serve](https://img.shields.io/badge/Serve-WebpackDevServer-orange.svg)
+![serve](https://img.shields.io/badge/Serve-CustomServer-orange.svg)
 
 ```script
 git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm install && npm start
