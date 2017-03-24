@@ -34,5 +34,13 @@ module.exports = {
             ]
         }
       ]
-    }
+    },
+
+		plugins: [
+			new HtmlWebpackPlugin({
+	      template: path.join(__dirname, './source/index.html'),
+	      filename: 'index.html',
+	      inject: 'body',
+	    }),
+		]
 };
