@@ -1,39 +1,27 @@
-# The React Junglebook :see_no_evil: :palm_tree:
+# The React Junglebook 🙈 🌴
 
 ### (The Absolute Most Simple Boilerplates For The React Jungle)
 
-## :banana: 1. Banana
+## 🍌 Plate 0: Banana
 
 THE most basic modern plate:
 
 Use React (essential), write in ES6 (beautiful), Pack with Webpack (smart).
 
-![not yet](https://img.shields.io/badge/View-REACT-green.svg)
-![online](https://img.shields.io/badge/Transpile-BABEL-red.svg)
-![online](https://img.shields.io/badge/Pack-WEBPACK-blue.svg)
+![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
+![react](https://img.shields.io/badge/View-React-green.svg)
+![webpack](https://img.shields.io/badge/Pack-Webpack-blue.svg)
 
 
-## Architecture
-
-### We do always have two sides: The 'source' and 'build'.
-
-The source is where we work. This is where we cook, these are our raw ingredients.
 ```script
-source/
+git clone https://github.com/cheesyeyes/react-junglebook.git -b 1 . && npm install && npm start
 ```
 
-The build is the final product that we serve. We never work in here.
-Meaning: Do never every edit anything in here manually.
-```script
-build/
-```
-
-Other may follow these convention by naming the directories 'src', 'dist' etc. Since where is a complex and growing jungle :palm_tree:
-, it might be a good idea to just write things out.
-
-### We do also always have at least the two scripts:
+## Scripts
+The following scripts are served with this plate:
 
 ```
-npm run build // 'Builds' Packs our Javascript code into one file.
-npm start //Opens our built project
+"clean": "rm -rf build/",
+"build": "npm run clean && webpack --config webpack.config.js",
+"start": "npm run build && open ./build/index.html"
 ```
