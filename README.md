@@ -30,7 +30,7 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 3 . && npm insta
 ## Scripts
 The following scripts are served with this plate:
 
-´´´
+```
 "develop:cli": "NODE_ENV=production webpack-dev-server --hot --inline --history-api-fallback --progress --port 8080 --config .webpack.config.js",
 "develop:api": "NODE_ENV=production node server.webpack.dev.js",
 "develop": "npm run develop:api",
