@@ -34,6 +34,13 @@ module.exports = {
 
     plugins: [
 
+			new HtmlWebpackPlugin({
+	      template: path.join(__dirname, './source/index.html'),
+	      filename: './build/index.html',
+	      inject: 'body',
+	    }),
+
+
       new webpack.HotModuleReplacementPlugin(),
 
       new webpack.NamedModulesPlugin()
