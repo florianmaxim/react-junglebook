@@ -1,6 +1,6 @@
 # React Boilerplates (How To Cook In The Jungle)
 
-## Plate 3: React, Webpack(Server:webpack-dev-server) (Hot Module Replacement) (Code Splitting) - (ES6:Babel)
+## 🍊 3: Tangerine
 
 ### Scripts
 
