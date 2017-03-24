@@ -5,6 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf build/*",
     "build": "webpack --config .webpack.config.js",
     "develop": "NODE_ENV=development webpack-dev-server --content-base ./build --history-api-fallback --port 8080 --config .webpack.config.dev.server.js",
     "start": "npm run build && NODE_ENV=production webpack-dev-server --content-base build/ --history-api-fallback --port 8080 --config .webpack.config.js"
