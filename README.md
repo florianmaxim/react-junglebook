@@ -64,12 +64,13 @@ git clone https://github.com/cheesyeyes/react-junglebook.git -b 2 . && npm insta
 
 ### 🍊 [3. Tangerine](../../tree/3)
 
-Handle the view (essential).
-Write modern (beautiful).
-Pack smart (handy).
-Serve directly (skillful).
-Develop live (smart).
-Structure By Routes (fast). Split Code (faster).
+Handle the view (essential:REACT).
+Write modern (beautiful:ES6).
+Pack smart (handy:WEBPACK).
+Serve directly (skillful:WEBPACK-DEV-SERVER).
+Develop live (smart:HMR).
+Structure By Routes (fast:ROUTES). 
+Split Code (faster:WEBPACK).
 
 ![babel](https://img.shields.io/badge/Transpile-Babel-red.svg)
 ![react](https://img.shields.io/badge/View-React-green.svg)
