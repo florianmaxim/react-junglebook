@@ -5,7 +5,7 @@ import browserHistory from 'react-router/lib/browserHistory';
 
 import App from './App';
 
-//Alternative: Exclude routes.
+//Alternative: Exclude routes (see files: Routes.Dynamic.js && Routes.Static.js).
 
 import Routes from './Routes.Dynamic';
 
